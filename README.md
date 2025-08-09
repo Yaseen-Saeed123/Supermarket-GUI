@@ -1,5 +1,6 @@
 # Supermarket-GUI
 Languages used: python
+
 Modules: tkinter, ttk & messagebox
 
 # Description
